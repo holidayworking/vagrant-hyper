@@ -1,4 +1,4 @@
-# vagrant-riak-cluster
+# vagrant-hyper
 
 ## Requirements
 
